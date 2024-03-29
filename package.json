@@ -1,0 +1,23 @@
+{
+  "name": "talib-tn-atm",
+  "version": "5.0.5",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "bin":"main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "talib-oo-atm": "^1.0.0",
+    "talib-tn-atm": "^2.0.1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "husky": "^4.3.8"
+  }
+}
